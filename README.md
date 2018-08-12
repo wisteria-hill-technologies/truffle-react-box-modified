@@ -13,6 +13,7 @@ https://truffleframework.com/boxes/react
 ### How to spin
 - Install Truffle globally.
 ```npm install -g truffle```
+- You will need Chrome with Metamask installed.
 - Clone this repo
 - npm install
 - Run the development console.
