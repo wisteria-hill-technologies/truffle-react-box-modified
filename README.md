@@ -8,6 +8,7 @@ https://truffleframework.com/boxes/react
 - Very simple contract
 - Event works
 - Test is not yet changed, so it fails.
+- Simple GetStarted Boilerplate for myself
 
 ### How to spin
 - Install Truffle globally.
